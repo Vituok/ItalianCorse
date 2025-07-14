@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ItalianCorse/static/css/main.d0bbe429.css",
+    "main.js": "/ItalianCorse/static/js/main.21e933fd.js",
+    "static/js/453.3062d320.chunk.js": "/ItalianCorse/static/js/453.3062d320.chunk.js",
+    "static/media/men.jpg": "/ItalianCorse/static/media/men.4a50ed9dd51e4739a826.jpg",
+    "index.html": "/ItalianCorse/index.html",
+    "main.d0bbe429.css.map": "/ItalianCorse/static/css/main.d0bbe429.css.map",
+    "main.21e933fd.js.map": "/ItalianCorse/static/js/main.21e933fd.js.map",
+    "453.3062d320.chunk.js.map": "/ItalianCorse/static/js/453.3062d320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0bbe429.css",
+    "static/js/main.21e933fd.js"
+  ]
+}
