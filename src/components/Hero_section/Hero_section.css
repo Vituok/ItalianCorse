@@ -1,0 +1,68 @@
+
+.hero-section {
+    background-color: #222222;
+    height: calc(100vh - 60px); /* Adjust for header height */
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.flag {
+    position: absolute;
+    z-index: -1;
+    top: 20vh;
+    left: 2px;
+    max-width: 300px;
+    
+}
+
+.hero-section img {
+    width: 100%;
+    height: auto;
+    max-width: 300px; /* Adjust as needed */
+    border-radius: 100px;
+    margin-left: 100px; /* Space between text and image */
+}
+
+.hero-section h1 {
+    z-index: 2;
+    font-size: 2.5em;
+    margin-bottom: 2px;
+    color: #f5f2f2;
+}
+.hero-section h1 span {
+     z-index: 2;
+    color: #ffcc00; /* Highlighted text color */
+}
+
+.hero-section p {
+     z-index: 2;
+    font-size: 1.2em;
+    margin-bottom: 60px;
+    color: #cecdcd;
+}
+
+.hero-section button {
+    background-color: #ffcc00;
+    color: #222222;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hero-section button:hover {
+    background-color: #ffcc00b0;
+}
