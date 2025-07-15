@@ -5,7 +5,7 @@ export const reviews = [
     text: "Очень помогло освоить базовый разговорный язык!",
     name: "Мария",
     city: "Москва",
-    avatar: "/img/maria.jpg",
+    avatar: "/public/img/maria.jpg",
     rate: 5
   },
   {
