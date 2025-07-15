@@ -5,7 +5,7 @@ export const reviews = [
     text: "Очень помогло освоить базовый разговорный язык!",
     name: "Мария",
     city: "Москва",
-    avatar: "/img/maria.jpg",
+    avatar: "./maria.jpg",
     rate: 5
   },
   {
@@ -13,7 +13,7 @@ export const reviews = [
     text: "Уроки были интересными и понятными, но потребовалось много времени. Может быть, я просто не очень усидчивый.",
     name: "Иван",
     city: "Санкт-Петербург",
-    avatar: "/img/ivan.jpg",
+    avatar: "./ivan.jpg",
     rate: 4
   },
   {
@@ -21,7 +21,7 @@ export const reviews = [
     text: "После курса спокойно общаюсь в Италии!",
     name: "Анна",
     city: "Казань",
-    avatar: "/img/anna.jpg",
+    avatar: "./anna.jpg",
     rate: 5
   },
   {
@@ -29,7 +29,7 @@ export const reviews = [
     text: "Отличный курс, рекомендую всем!",
     name: "Алексей",
     city: "Минск",
-    avatar: "/img/aleksey.jpg",
+    avatar: "./aleksey.jpg",
     rate: 5
   },
   {
@@ -37,7 +37,7 @@ export const reviews = [
     text: "Ожидал большего.",
     name: "Максим",
     city: "Бобруйск",
-    avatar: "/img/maksim.jpg",
+    avatar: "./maksim.jpg",
     rate: 1
     }
 ];
